@@ -1,9 +1,5 @@
 {
   "Gobal": {
-    "12": {
-      "value": "{spacing.sm} * 3",
-      "type": "spacing"
-    },
     "Neutral": {
       "10": {
         "value": "#ffffff",
