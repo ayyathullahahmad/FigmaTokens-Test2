@@ -198,31 +198,31 @@
         "type": "spacing"
       },
       "smd": {
-        "value": "{spacing.sm} * 2",
+        "value": "8",
         "type": "spacing"
       },
       "md": {
-        "value": "{spacing.sm} * 3",
+        "value": "12",
         "type": "spacing"
       },
       "mdl": {
-        "value": "{spacing.smd} * 2",
+        "value": "16",
         "type": "spacing"
       },
       "lg": {
-        "value": "{spacing.sm} * 5",
+        "value": "20",
         "type": "spacing"
       },
       "xl": {
-        "value": "{spacing.smd} *3",
+        "value": "24",
         "type": "spacing"
       },
       "xxl": {
-        "value": "{spacing.mdl} * 2",
+        "value": "32",
         "type": "spacing"
       },
       "xxxl": {
-        "value": "{spacing.xxl}*2",
+        "value": "100",
         "type": "spacing"
       }
     },
